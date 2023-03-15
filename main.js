@@ -1,5 +1,6 @@
 // const baseUrl = "https://yashnirmal-curly-zebra-57995xj4x627j9g-5000.preview.app.github.dev"
-const baseUrl = "https://word2vec-demo-backend.onrender.com"
+// const baseUrl = "https://word2vec-demo-backend.onrender.com"
+const baseUrl = "http://127.0.0.1:5000"
 const salaryPredictionBtn = document.querySelector("#submitsalary")
 const sentimentPredictionBtn = document.querySelector("#calcsentiment")
 
